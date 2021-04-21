@@ -1,0 +1,9 @@
+image: docker:hello-world
+
+stages:
+  - check
+
+do-check:
+  stage: check
+  script:
+    - echo "ok"

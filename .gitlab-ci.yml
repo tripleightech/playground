@@ -1,4 +1,4 @@
-image: docker:hello-world
+image: hello-world
 
 stages:
   - check

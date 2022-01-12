@@ -1,0 +1,9 @@
+rules:
+  - name: foo
+    condition: .*
+    check_type: changed_files
+    min_approvals: 1
+    users:
+      - jpgremio
+    teams:
+      - jp

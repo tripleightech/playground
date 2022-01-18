@@ -10,7 +10,7 @@ jobs:
   board_update:
     runs-on: ubuntu-latest
     env: 
-      GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       ORGANIZATION: tripleightech
       BOARD_PROJECT_NUMBER: 2
 #       ROADMAP_PROJECT_NUMBER: ROADMAP_PROJECT_NUMBER

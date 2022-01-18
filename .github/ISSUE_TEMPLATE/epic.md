@@ -8,4 +8,8 @@ assignees: ''
 ---
 
 Notion: <link to notion>
-### Short Desctiption, more in notion
+## Summary
+
+## Intended Outcome
+
+## How will it work?
